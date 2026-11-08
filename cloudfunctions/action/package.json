@@ -1,0 +1,9 @@
+{
+  "name": "action",
+  "version": "1.0.0",
+  "description": "对局与用户操作的统一入口",
+  "main": "index.js",
+  "dependencies": {
+    "wx-server-sdk": "~2.6.3"
+  }
+}

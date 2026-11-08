@@ -1,0 +1,11 @@
+{
+  "compileType": "game",
+  "libVersion": "3.17.4",
+  "projectname": "rammi-game",
+  "setting": {
+    "urlCheck": false,
+    "compileHotReLoad": false,
+    "checkInvalidKey": true,
+    "ignoreDevUnusedFiles": true
+  }
+}
